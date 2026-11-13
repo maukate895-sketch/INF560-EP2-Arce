@@ -122,13 +122,20 @@ http://127.0.0.1:8000
 
 ## Capturas de pantalla
 
-Las capturas del proyecto se almacenarán en `docs/capturas/`.
+### Página principal
+![Inicio](docs/capturas/inicio.jpg)
 
-- Catálogo de tours.
-- Detalle de un tour.
-- Panel de administración.
-- Mis reservas.
+### Catálogo de tours
+![Catálogo](docs/capturas/catalogo.jpg)
 
+### Detalle de un tour
+![Detalle](docs/capturas/detalle.jpg)
+
+### Panel de administración
+![Administración](docs/capturas/admin.jpg)
+
+### Mis reservas
+![Mis reservas](docs/capturas/mis-reservas.jpg)
 ## Autor
 
 Kate Arce
